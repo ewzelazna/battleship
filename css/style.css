@@ -23,8 +23,6 @@ table {
 	background: -webkit-linear-gradient(top, #1e5799 0%,#2989d8 41%,#7db9e8 100%); /* Chrome10-25,Safari5.1-6 */
 	background: linear-gradient(to bottom, #1e5799 0%,#2989d8 41%,#7db9e8 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
 	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#1e5799', endColorstr='#7db9e8',GradientType=0 ); /* IE6-9 */
-/*	border: 1px solid #fff;
-*//*	min-width: 571px;*/
 	margin: 0 auto;
 	-webkit-box-shadow: 8px 8px 20px 1px #999999;
 	box-shadow: 8px 8px 20px 1px #999999;
@@ -100,4 +98,5 @@ form input {
     border-radius: 5px;
     padding: 0 15px;
     outline: none;
+    cursor: pointer;
 }
